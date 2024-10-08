@@ -34,4 +34,4 @@ Shortcuts I would like to start using:
 - Super-Hyper-Meta-F (I don’t even have such keys, but it sounds impressive)
 
 
-[CLI commands](docs/cli.md)
+[CLI commands](doc/cli.md)
